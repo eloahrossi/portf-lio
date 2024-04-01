@@ -1,0 +1,40 @@
+body{
+    background-color: #141414;
+
+}
+
+.linha{
+    width: 17vw;
+    position: absolute;
+}
+
+.tiras{
+    width: 46vw;
+    margin-top: 3vh;
+}
+
+.port22{
+    height: 40px;
+    border-radius: 15px;
+    font-family: 'Harker', sans-serif;
+    font-size: 25px;                                
+                                                
+}
+
+.port23{
+    font-size: 25px; 
+    height: 40px;
+    border-radius: 15px;
+    font-family: 'Harker', sans-serif;
+}
+
+.qlqrcoisa{
+    width: fit-content;
+    position: absolute;
+    right: 3rem;
+    top: 1.5rem;
+}
+
+.h1{
+    font-family: 'Devil Inside Personal Use', sans-serif;
+}
