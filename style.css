@@ -4,7 +4,7 @@ body{
 }
 
 .linha{
-    width: 17vw;
+    width: 15vw;
     position: absolute;
 }
 
@@ -35,6 +35,59 @@ body{
     top: 1.5rem;
 }
 
-.h1{
+.title{
     font-family: 'Devil Inside Personal Use', sans-serif;
+    color: white;
+    font-size: 100px
+}
+
+
+.alo{
+    font-family: 'Harker', sans-serif;
+    color: white;
+    font-size: 40px;
+}
+
+.titulo{
+    margin-top: 30vh;
+    margin-left: 37vh;
+}
+
+.dazai{
+    width: 100vh;
+    margin-left: 100vh;
+    margin-top: -60vh;
+}
+
+.dazaichibi img{
+    width: 25vw;
+    margin-top: -20vh;
+}
+
+.fyodor{
+    width: 23vw;
+    margin-top: 30vh;
+    margin-left: 30vh;
+  
+}
+
+.sobre{
+    font-family: 'Devil Inside Personal Use', sans-serif;
+    color: white;
+    font-size: 100px
+}
+
+.lala{
+    margin-left: 120vh;
+    margin-top: -28vh;
+}
+
+.textosobre{
+    color: white;
+    font-family: 'Harker', sans-serif;
+    border: 3px solid rgb(255, 255, 255);
+    border-radius: 2vw;
+    width: 78vh;
+    margin-left: 13vh;
+    text-align: center;
 }
