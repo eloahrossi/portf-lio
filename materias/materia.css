@@ -8,6 +8,163 @@
     font-size: 6.6rem;
 }
 
+.tri1humana{
+    height: 2.5rem;
+    border-radius: 1rem;
+    font-family: 'Harker', sans-serif;
+    font-size: 25px; 
+    width: 17vh;
+}
+
+a{
+    
+    text-decoration: none;
+    color: black;
+}
+
+.tri2humana{
+    height: 2.5rem;
+    border-radius: 1rem;
+    font-family: 'Harker', sans-serif;
+    font-size: 25px; 
+    width: 17vh;
+}
+
+.tri3humana{
+    height: 2.5rem;
+    border-radius: 1rem;
+    font-family: 'Harker', sans-serif;
+    font-size: 25px; 
+    width: 17vh;
+}
+
+
+.tithumanas{
+    font-family: 'Devil Inside Personal Use', sans-serif;
+    color: white;
+    font-size: 3em;
+}
+
+.botoeshumanas{
+    width: 1vh;
+}
+
 .bodylinguagens{
     background-color: #141414;
+}
+
+.titulolinguagens{
+    font-family: 'Devil Inside Personal Use', sans-serif;
+    color: white;
+    font-size: 6.6rem;
+}
+
+.titlinguagens{
+    font-family: 'Devil Inside Personal Use', sans-serif;
+    color: white;
+    font-size: 3em;
+}
+
+.tri1linguagens{
+    height: 2.5rem;
+    border-radius: 1rem;
+    font-family: 'Harker', sans-serif;
+    font-size: 25px; 
+    width: 17vh;
+}
+
+.tri2linguagens{
+    height: 2.5rem;
+    border-radius: 1rem;
+    font-family: 'Harker', sans-serif;
+    font-size: 25px; 
+    width: 17vh;
+}
+
+.tri3linguagens{
+    height: 2.5rem;
+    border-radius: 1rem;
+    font-family: 'Harker', sans-serif;
+    font-size: 25px; 
+    width: 17vh;
+}
+
+.bodymatematica{
+    background-color: #141414;
+}
+
+.titulomatematica{
+    font-family: 'Devil Inside Personal Use', sans-serif;
+    color: white;
+    font-size: 6.6rem;
+}
+
+.titmatematica{
+    font-family: 'Devil Inside Personal Use', sans-serif;
+    color: white;
+    font-size: 3em;
+}
+
+.tri1matematica{
+    height: 2.5rem;
+    border-radius: 1rem;
+    font-family: 'Harker', sans-serif;
+    font-size: 25px; 
+    width: 17vh;
+}
+
+.tri2matematica{
+    height: 2.5rem;
+    border-radius: 1rem;
+    font-family: 'Harker', sans-serif;
+    font-size: 25px; 
+    width: 17vh;
+}
+
+.tri3matematica{
+    height: 2.5rem;
+    border-radius: 1rem;
+    font-family: 'Harker', sans-serif;
+    font-size: 25px; 
+    width: 17vh;
+}
+
+.bodynatureza{
+    background-color: #141414;
+}
+
+.titulonatureza{
+    font-family: 'Devil Inside Personal Use', sans-serif;
+    color: white;
+    font-size: 6.6rem;
+}
+
+.titnatureza{
+    font-family: 'Devil Inside Personal Use', sans-serif;
+    color: white;
+    font-size: 3em;
+}
+
+.tri1natureza{
+    height: 2.5rem;
+    border-radius: 1rem;
+    font-family: 'Harker', sans-serif;
+    font-size: 25px; 
+    width: 17vh;
+}
+
+.tri2natureza{
+    height: 2.5rem;
+    border-radius: 1rem;
+    font-family: 'Harker', sans-serif;
+    font-size: 25px; 
+    width: 17vh;
+}
+
+.tri3natureza{
+    height: 2.5rem;
+    border-radius: 1rem;
+    font-family: 'Harker', sans-serif;
+    font-size: 25px; 
+    width: 17vh;
 }
