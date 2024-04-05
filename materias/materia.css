@@ -168,3 +168,163 @@ a{
     font-size: 25px; 
     width: 17vh;
 }
+
+.bodymodel{
+    background-color: #141414;
+}
+
+.titulomodel{
+    font-family: 'Devil Inside Personal Use', sans-serif;
+    color: white;
+    font-size: 6.6rem;
+}
+
+.titmodel{
+    font-family: 'Devil Inside Personal Use', sans-serif;
+    color: white;
+    font-size: 3em;
+}
+
+.tri1model{
+    height: 2.5rem;
+    border-radius: 1rem;
+    font-family: 'Harker', sans-serif;
+    font-size: 25px; 
+    width: 17vh;
+}
+
+.tri2model{
+    height: 2.5rem;
+    border-radius: 1rem;
+    font-family: 'Harker', sans-serif;
+    font-size: 25px; 
+    width: 17vh;
+}
+
+.tri3model{
+    height: 2.5rem;
+    border-radius: 1rem;
+    font-family: 'Harker', sans-serif;
+    font-size: 25px; 
+    width: 17vh;
+}
+
+.bodysituacao{
+    background-color: #141414;
+}
+
+.titulosituacao{
+    font-family: 'Devil Inside Personal Use', sans-serif;
+    color: white;
+    font-size: 6.6rem;
+}
+
+.titsituacao{
+    font-family: 'Devil Inside Personal Use', sans-serif;
+    color: white;
+    font-size: 3em;
+}
+
+.tri1situacao{
+    height: 2.5rem;
+    border-radius: 1rem;
+    font-family: 'Harker', sans-serif;
+    font-size: 25px; 
+    width: 17vh;
+}
+
+.tri2situacao{
+    height: 2.5rem;
+    border-radius: 1rem;
+    font-family: 'Harker', sans-serif;
+    font-size: 25px; 
+    width: 17vh;
+}
+
+.tri3situacao{
+    height: 2.5rem;
+    border-radius: 1rem;
+    font-family: 'Harker', sans-serif;
+    font-size: 25px; 
+    width: 17vh;  
+}
+
+.bodydesenvolv{
+    background-color: #141414;
+}
+
+.titulodesenvolv{
+    font-family: 'Devil Inside Personal Use', sans-serif;
+    color: white;
+    font-size: 6.6rem;
+}
+
+.titdesenvolv{
+    font-family: 'Devil Inside Personal Use', sans-serif;
+    color: white;
+    font-size: 3em;
+}
+
+.tri1desenvolv{
+    height: 2.5rem;
+    border-radius: 1rem;
+    font-family: 'Harker', sans-serif;
+    font-size: 25px; 
+    width: 17vh; 
+}
+
+.tri2desenvolv{
+    height: 2.5rem;
+    border-radius: 1rem;
+    font-family: 'Harker', sans-serif;
+    font-size: 25px; 
+    width: 17vh; 
+}
+
+.tri3desenvolv{
+    height: 2.5rem;
+    border-radius: 1rem;
+    font-family: 'Harker', sans-serif;
+    font-size: 25px; 
+    width: 17vh; 
+}
+
+.bodyimplant{
+    background-color: #141414;
+}
+
+.tituloimplant{
+    font-family: 'Devil Inside Personal Use', sans-serif;
+    color: white;
+    font-size: 6.6rem;
+}
+
+.titimplant{
+    font-family: 'Devil Inside Personal Use', sans-serif;
+    color: white;
+    font-size: 3em;
+}
+
+.tri1implant{
+    height: 2.5rem;
+    border-radius: 1rem;
+    font-family: 'Harker', sans-serif;
+    font-size: 25px; 
+    width: 17vh; 
+}
+
+.tri2implant{
+    height: 2.5rem;
+    border-radius: 1rem;
+    font-family: 'Harker', sans-serif;
+    font-size: 25px; 
+    width: 17vh; 
+}
+
+.tri3implant{
+    height: 2.5rem;
+    border-radius: 1rem;
+    font-family: 'Harker', sans-serif;
+    font-size: 25px; 
+    width: 17vh; 
+}

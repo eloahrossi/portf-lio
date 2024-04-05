@@ -235,3 +235,43 @@ a{
     color: white;
     font-size: 6.6em;
 }
+
+.situacao{
+    width: 30vh;
+    transition: all 0.3s ease-in-out;
+}
+
+.situacao:hover{
+    opacity: 0.8;
+    transform: scale(1.1);
+}
+
+.modelagem{
+    width: 30vh;
+    transition: all 0.3s ease-in-out;
+}
+
+.modelagem:hover{
+    opacity: 0.8;
+    transform: scale(1.1);
+}
+
+.desenvolvimento{
+    width: 30vh;
+    transition: all 0.3s ease-in-out;
+}
+
+.desenvolvimento:hover{
+    opacity: 0.8;
+    transform: scale(1.1);
+}
+
+.implantacao{
+    width: 30vh;
+    transition: all 0.3s ease-in-out;
+}
+
+.implantacao:hover{
+    opacity: 0.8;
+    transform: scale(1.1);
+}

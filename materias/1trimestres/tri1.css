@@ -107,3 +107,255 @@
     color: white;
     font-size: 1.8em;
 }
+
+.botaoatv3lin{
+    border-radius: 3vw;
+}
+
+a{
+     text-decoration: none;
+    color: black;
+}
+
+p{
+    text-align: center;
+}
+
+.bodytri1hum{
+    background-color: #141414;
+}
+
+.titulotr1hum{
+    font-family: 'Devil Inside Personal Use', sans-serif;
+    color: white;
+    font-size: 6.6rem;
+}
+
+.tithum{
+    font-family: 'Devil Inside Personal Use', sans-serif;
+    color: white;
+    font-size: 3em;
+}
+
+.divatividadehum{
+    width: 30vw;
+    background-color: rgb(70, 16, 70);  
+    border-radius: 1.5vw;
+    margin-left: 3vh;  
+}
+
+.descricaohum{
+    font-family: 'Harker', sans-serif;
+    color: white;
+    font-size: 1.8em;
+}
+
+.atividadenepal{
+    font-family: 'Harker', sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: 1.8em;
+}
+
+.botaoatv1hum{
+    border-radius: 3vw;
+    
+}
+
+.divatividadehum2{
+    width: 30vw;
+    background-color: rgb(16, 17, 70);  
+    border-radius: 1.5vw;
+    margin-top: -32vh;
+    margin-left: 34vw;  
+
+}
+
+.descricaohum2{
+    font-family: 'Harker', sans-serif;
+    color: white;
+    font-size: 1.8em;
+}
+
+.atividadefilme{
+    font-family: 'Harker', sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: 1.8em;
+}
+
+.botaoatv2hum{
+    border-radius: 3vw;
+}
+
+.divatividadehum3{
+    width: 30vw;
+    background-color: rgb(25, 70, 16);  
+    border-radius: 1.5vw;
+    margin-top: -27vh;
+    margin-left: 66vw;  
+}
+
+.descricaohum3{
+    font-family: 'Harker', sans-serif;
+    color: white;
+    font-size: 1.8em;
+}
+
+.atividadeenigma{
+    font-family: 'Harker', sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: 1.8em;
+}
+
+.botaoatv3hum{
+    border-radius: 3vw;
+}
+
+.bodytri1nat{
+    background-color: #141414;
+}
+
+.titulotri1nat{
+    font-family: 'Devil Inside Personal Use', sans-serif;
+    color: white;
+    font-size: 6.6rem;
+}
+
+.titnat{
+    font-family: 'Devil Inside Personal Use', sans-serif;
+    color: white;
+    font-size: 3em;
+}
+
+.divatividadenat{
+    width: 30vw;
+    background-color: rgb(70, 16, 70);  
+    border-radius: 1.5vw;
+    margin-left: 3vh;  
+}
+
+.descricaonat{
+    font-family: 'Harker', sans-serif;
+    color: white;
+    font-size: 1.8em;
+}
+
+.botaoatv1nat{
+    border-radius: 3vw;
+}
+
+.atividadetv{
+    font-family: 'Harker', sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: 1.8em;
+}
+
+.divatividadenat2{
+    width: 30vw;
+    background-color: rgb(16, 68, 70);  
+    border-radius: 1.5vw;
+    margin-top: -27.5vh;
+    margin-left: 34vw; 
+}
+
+.descricaonat2{
+    font-family: 'Harker', sans-serif;
+    color: white;
+    font-size: 1.8em;
+}
+
+.botaoatv2nat{
+    border-radius: 3vw;
+}
+
+.atividadecircuito{
+    font-family: 'Harker', sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: 1.8em;
+}
+
+.divatividadenat3{
+    width: 30vw;
+    background-color: rgb(16, 70, 19);  
+    border-radius: 1.5vw;
+    margin-top: -27.5vh;
+    margin-left: 66vw; 
+}
+
+.descricaonat3{
+    font-family: 'Harker', sans-serif;
+    color: white;
+    font-size: 1.8em;
+}
+
+.botaoatv3nat{
+    border-radius: 3vw;
+}
+
+.atividaderevisao{
+    font-family: 'Harker', sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: 1.8em;
+}
+
+.divatividadenat4{
+    width: 30vw;
+    background-color: rgb(70, 16, 16);  
+    border-radius: 1.5vw;
+    margin-left: 3vh;
+    margin-top: 5vw;
+}
+
+.descricaonat4{
+    font-family: 'Harker', sans-serif;
+    color: white;
+    font-size: 1.8em;
+}
+
+.botaoatv4nat{
+    border-radius: 3vw;
+}
+
+.atividadeexercicio{
+    font-family: 'Harker', sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: 1.8em;
+}
+
+.bodytri1dev{
+    background-color: #141414;
+}
+
+.titulotri1dev{
+    font-family: 'Devil Inside Personal Use', sans-serif;
+    color: white;
+    font-size: 6.6rem;
+}
+
+.titdev{
+    font-family: 'Devil Inside Personal Use', sans-serif;
+    color: white;
+    font-size: 3em;
+}
+
+.divatividadedev{
+    width: 30vw;
+    background-color: rgb(16, 48, 70);  
+    border-radius: 1.5vw;
+    margin-left: 3vh; 
+}
+
+.descricaodev{
+    font-family: 'Harker', sans-serif;
+    color: white;
+    font-size: 1.8em;
+}
+
+.botaoatv1dev{
+    border-radius: 3vw;
+}
+
+.atividadecalculadora{
+    font-family: 'Harker', sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: 1.8em;
+}
