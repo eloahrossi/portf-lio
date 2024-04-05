@@ -229,3 +229,9 @@ a{
     opacity: 0.8;
     transform: scale(1.1);
 }
+
+.titulotecnico{
+    font-family: 'Devil Inside Personal Use', sans-serif;
+    color: white;
+    font-size: 6.6em;
+}

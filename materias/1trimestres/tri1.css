@@ -1,0 +1,109 @@
+.bodytri1mat{
+    background-color: #141414;
+}
+
+.titulotr1mat{
+    font-family: 'Devil Inside Personal Use', sans-serif;
+    color: white;
+    font-size: 6.6rem;
+}
+
+.titmat{
+    font-family: 'Devil Inside Personal Use', sans-serif;
+    color: white;
+    font-size: 3em;
+}
+
+.descricaomat{
+    font-family: 'Harker', sans-serif;
+    color: white;
+    font-size: 2em;
+}
+
+.atividademapa{
+    font-family: 'Harker', sans-serif;
+    color: white;
+    font-size: 1.8em;
+}
+
+.divatividademat{
+    width: 30vw;
+    background-color: rgb(70, 16, 70);  
+    border-radius: 1.5vw;
+    margin-left: 3vh;  
+}
+
+.bodytri1lin{
+    background-color: #141414;
+}
+
+.titulotr1lin{
+    font-family: 'Devil Inside Personal Use', sans-serif;
+    color: white;
+    font-size: 6.6rem;
+}
+
+.titlin{
+    font-family: 'Devil Inside Personal Use', sans-serif;
+    color: white;
+    font-size: 3em;
+}
+
+.descricaolin{
+    font-family: 'Harker', sans-serif;
+    color: white;
+    font-size: 2em;
+}
+
+.divatividadelin{
+    width: 30vw;
+    background-color: rgb(16, 24, 70);  
+    border-radius: 1.5vw;
+    margin-left: 3vh; 
+}
+
+.atividademodern{
+    font-family: 'Harker', sans-serif;
+    color: white;
+    font-size: 1.8em;
+}
+
+.divatividadelin2{
+    width: 30vw;
+    background-color: rgb(70, 24, 16);  
+    border-radius: 1.5vw;
+    margin-top: -44.5vh;
+    margin-left: 35vw; 
+}
+
+.descricaolin2{
+    font-family: 'Harker', sans-serif;
+    color: white;
+    font-size: 2em;
+}
+
+.atividadecartaz{
+    font-family: 'Harker', sans-serif;
+    color: white;
+    font-size: 1.8em;
+}
+
+.divatividadelin3{
+    width: 20vw;
+    background-color: rgb(70, 16, 46);  
+    border-radius: 1.5vw;
+    margin-top: -50vh;
+    margin-left: 70vw; 
+}
+
+.descricaolin3{
+    font-family: 'Harker', sans-serif;
+    color: white;
+    font-size: 2em; 
+}
+
+.atividaderevista{
+    font-family: 'Harker', sans-serif;
+    color: white;
+    font-size: 1.8em;
+}
