@@ -15,13 +15,13 @@
 }
 
 .descricaomat{
-    font-family: 'Harker', sans-serif;
+    font-family: 'Typography Times', sans-serif;
     color: white;
     font-size: 2em;
 }
 
 .atividademapa{
-    font-family: 'Harker', sans-serif;
+    font-family: 'Typography Times', sans-serif;
     color: white;
     font-size: 1.8em;
 }
@@ -50,7 +50,7 @@
 }
 
 .descricaolin{
-    font-family: 'Harker', sans-serif;
+    font-family: 'Typography Times', sans-serif;
     color: white;
     font-size: 2em;
 }
@@ -63,7 +63,7 @@
 }
 
 .atividademodern{
-    font-family: 'Harker', sans-serif;
+    font-family: 'Typography Times', sans-serif;
     color: white;
     font-size: 1.8em;
 }
@@ -77,13 +77,13 @@
 }
 
 .descricaolin2{
-    font-family: 'Harker', sans-serif;
+    font-family: 'Typography Times', sans-serif;
     color: white;
     font-size: 2em;
 }
 
 .atividadecartaz{
-    font-family: 'Harker', sans-serif;
+    font-family: 'Typography Times', sans-serif;
     color: white;
     font-size: 1.8em;
 }
@@ -97,13 +97,13 @@
 }
 
 .descricaolin3{
-    font-family: 'Harker', sans-serif;
+    font-family: 'Typography Times', sans-serif;
     color: white;
     font-size: 2em; 
 }
 
 .atividaderevista{
-    font-family: 'Harker', sans-serif;
+    font-family: 'Typography Times', sans-serif;
     color: white;
     font-size: 1.8em;
 }
@@ -145,16 +145,14 @@ p{
 }
 
 .descricaohum{
-    font-family: 'Harker', sans-serif;
+    font-family: 'Typography Times', sans-serif;
     color: white;
-    font-size: 1.8em;
+    font-size: 1.3em;
 }
 
 .atividadenepal{
-    font-family: 'Harker', sans-serif;
-    color: rgb(0, 0, 0);
-    font-size: 1.8em;
-}
+    font-family: 'Typography Times', sans-serif;
+    color: rgb(0, 0, 0);}
 
 .botaoatv1hum{
     border-radius: 3vw;
@@ -165,21 +163,20 @@ p{
     width: 30vw;
     background-color: rgb(16, 17, 70);  
     border-radius: 1.5vw;
-    margin-top: -32vh;
+    margin-top: -28vh;
     margin-left: 34vw;  
 
 }
 
 .descricaohum2{
-    font-family: 'Harker', sans-serif;
+    font-family: 'Typography Times', sans-serif;
     color: white;
-    font-size: 1.8em;
+    font-size: 1.3em;
 }
 
 .atividadefilme{
-    font-family: 'Harker', sans-serif;
+    font-family: 'Typography Times', sans-serif;
     color: rgb(0, 0, 0);
-    font-size: 1.8em;
 }
 
 .botaoatv2hum{
@@ -190,20 +187,20 @@ p{
     width: 30vw;
     background-color: rgb(25, 70, 16);  
     border-radius: 1.5vw;
-    margin-top: -27vh;
+    margin-top: -25vh;
     margin-left: 66vw;  
 }
 
 .descricaohum3{
-    font-family: 'Harker', sans-serif;
+    font-family: 'Typography Times', sans-serif;
     color: white;
-    font-size: 1.8em;
+    font-size: 1.3em;
 }
 
 .atividadeenigma{
-    font-family: 'Harker', sans-serif;
+    font-family: 'Typography Times', sans-serif;
     color: rgb(0, 0, 0);
-    font-size: 1.8em;
+    font-size: 1.0em;
 }
 
 .botaoatv3hum{
@@ -234,7 +231,7 @@ p{
 }
 
 .descricaonat{
-    font-family: 'Harker', sans-serif;
+    font-family: 'Typography Times', sans-serif;
     color: white;
     font-size: 1.8em;
 }
@@ -244,7 +241,7 @@ p{
 }
 
 .atividadetv{
-    font-family: 'Harker', sans-serif;
+    font-family: 'Typography Times', sans-serif;
     color: rgb(0, 0, 0);
     font-size: 1.8em;
 }
@@ -258,7 +255,7 @@ p{
 }
 
 .descricaonat2{
-    font-family: 'Harker', sans-serif;
+    font-family: 'Typography Times', sans-serif;
     color: white;
     font-size: 1.8em;
 }
@@ -268,7 +265,7 @@ p{
 }
 
 .atividadecircuito{
-    font-family: 'Harker', sans-serif;
+    font-family: 'Typography Times', sans-serif;
     color: rgb(0, 0, 0);
     font-size: 1.8em;
 }
@@ -282,7 +279,7 @@ p{
 }
 
 .descricaonat3{
-    font-family: 'Harker', sans-serif;
+    font-family: 'Typography Times', sans-serif;
     color: white;
     font-size: 1.8em;
 }
@@ -292,7 +289,7 @@ p{
 }
 
 .atividaderevisao{
-    font-family: 'Harker', sans-serif;
+    font-family: 'Typography Times', sans-serif;
     color: rgb(0, 0, 0);
     font-size: 1.8em;
 }
@@ -306,7 +303,7 @@ p{
 }
 
 .descricaonat4{
-    font-family: 'Harker', sans-serif;
+    font-family: 'Typography Times', sans-serif;
     color: white;
     font-size: 1.8em;
 }
@@ -316,7 +313,7 @@ p{
 }
 
 .atividadeexercicio{
-    font-family: 'Harker', sans-serif;
+    font-family: 'Typography Times', sans-serif;
     color: rgb(0, 0, 0);
     font-size: 1.8em;
 }
@@ -345,7 +342,7 @@ p{
 }
 
 .descricaodev{
-    font-family: 'Harker', sans-serif;
+    font-family: 'Typography Times', sans-serif;
     color: white;
     font-size: 1.8em;
 }
@@ -355,7 +352,40 @@ p{
 }
 
 .atividadecalculadora{
-    font-family: 'Harker', sans-serif;
+    font-family: 'Typography Times', sans-serif;
     color: rgb(0, 0, 0);
     font-size: 1.8em;
+}
+
+.divatividademod{
+    width: 31vw;
+    height: 20vh;
+    background-color: rgb(70, 16, 70);  
+    border-radius: 1.3vw;
+    margin-left: 3vh;  
+}
+
+.descricao{
+    font-family: 'Typography Times', sans-serif;
+    color: white;
+    font-size: 1.3em;
+}
+
+.botaoatv{
+    border-radius: 3vw;
+    background-color: #141414;
+}
+
+.atividadebanca{
+    font-family: 'Typography Times', sans-serif;
+    color: white;
+}
+
+.divatividademod2{
+    width: 31vw;
+    height: 16vh;
+    background-color: rgb(70, 16, 16);  
+    border-radius: 1.3vw;
+    margin-left: 34vw;
+    margin-top: -23vh;
 }
