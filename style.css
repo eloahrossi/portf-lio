@@ -16,16 +16,16 @@ body{
 .port22{
     height: 2.5rem;
     border-radius: 1rem;
-    font-family: 'Harker', sans-serif;
-    font-size: 25px;                                
+    font-family: 'Typography Times', sans-serif;
+    font-size: 1rem;                                
                                                 
 }
 
 .port23{
-    font-size: 25px; 
+    font-size: 1rem; 
     height: 2.5rem;
     border-radius: 1rem;
-    font-family: 'Harker', sans-serif;
+    font-family: 'Typography Times', sans-serif;
 }
 
 .qlqrcoisa{
@@ -43,9 +43,9 @@ body{
 
 
 .alo{
-    font-family: 'Harker', sans-serif;
+    font-family: 'Typography Times', sans-serif;
     color: white;
-    font-size: 40px;
+    font-size: 2.5rem;
 }
 
 .titulo{
@@ -55,7 +55,7 @@ body{
 
 .dazai{
     width: 100vh;
-    margin-left: 100vh;
+    margin-left: 90vh;
     margin-top: -60vh;
 }
 
@@ -66,7 +66,7 @@ body{
 
 .fyodor{
     width: 23vw;
-    margin-top: 30vh;
+    margin-top: 5vw;
     margin-left: 30vh;
   
 }
@@ -84,18 +84,20 @@ body{
 
 .textosobre{
     color: white;
-    font-family: 'Harker', sans-serif;
+    font-family: 'Typography Times', sans-serif;
     border: 3px solid rgb(255, 255, 255);
     border-radius: 2vw;
-    width: 70vh;
+    width: 39vw;
+    height: 23.5vw;
     margin-left: 8.5vw;
     text-align: center;
     margin-bottom: -10vh;
+    font-size: 1rem;
 }
 
 .fedya{
     margin-left: 56vw;
-    margin-top: -40vh;
+    margin-top: -25vh;
     width: 55vh;
 }
 
@@ -112,8 +114,8 @@ body{
 .github{
     height: 2.5rem;
     border-radius: 1rem;
-    font-family: 'Harker', sans-serif;
-    font-size: 25px; 
+    font-family: 'Typography Times', sans-serif;
+    font-size: 1.5rem; 
     width: 17vh;
 
 }
@@ -127,23 +129,23 @@ a{
 .linkedin{
     height: 2.5rem;
     border-radius: 1rem;
-    font-family: 'Harker', sans-serif;
-    font-size: 25px; 
+    font-family: 'Typography Times', sans-serif;
+    font-size: 1.5rem; 
     width: 17vh;
 }
 
 .botaocurriculo{
     width: fit-content;
     position: absolute;
-    left: 50rem;
-    top: 96.3rem
+    left: 42.3rem;
+    top: 109rem;
 }
 
 .ranpo{
     width: 25vw;
     position: absolute;
     left: 9rem;
-    top: 103rem;
+    top: 114rem;
     transition: all 0.3s ease-in-out;
     -webkit-filter: drop-shadow(5px 5px 5px #252525);
     filter: drop-shadow(5px 5px 5px #888888);
@@ -176,6 +178,14 @@ a{
 
 .certf1{
     width: 30vh;
+    transition: all 0.3s ease-in-out;
+    -webkit-filter: drop-shadow(5px 5px 5px #252525);
+    filter: drop-shadow(5px 5px 5px #252525);
+
+}
+
+.certf1:hover{
+    transform: scale(3.0);
 }
 
 .divImg{
@@ -274,4 +284,25 @@ a{
 .implantacao:hover{
     opacity: 0.8;
     transform: scale(1.1);
+}
+
+.fundosobre{
+    background-color: #222222;
+}
+
+.fundomateria{
+    background-color: #222222;
+
+}
+
+.materiastitulo{
+    font-family: 'Typography Times', sans-serif;
+    color: white;
+    font-size: 1.3rem;
+}
+
+.materiastecnico{
+    font-family: 'Typography Times', sans-serif;
+    color: white;
+    font-size: 1.3rem;
 }

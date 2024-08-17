@@ -1,0 +1,56 @@
+body{
+    background-color: #141414;
+}
+
+.titulo{
+    font-family: 'Devil Inside Personal Use', sans-serif;
+    color: white;
+    font-size: 6.6rem;
+}
+
+.tit{
+    font-family: 'Devil Inside Personal Use', sans-serif;
+    color: white;
+    font-size: 3em;
+}
+
+.descricao{
+    font-family: 'Typography Times', sans-serif;
+    color: white;
+    font-size: 1.3em;
+}
+
+.atividadebanca{
+    font-family: 'Typography Times', sans-serif;
+    color: white;
+}
+
+.divatividademat{
+    width: 31vw;
+    height: 26vh;
+    background-color: rgb(70, 16, 70);  
+    border-radius: 1.3vw;
+    margin-left: 3vh;  
+}
+
+.divatividademat2{
+    width: 31vw;
+    height: 16vh;
+    background-color: rgb(70, 16, 16);  
+    border-radius: 1.3vw;
+    margin-left: 34vw;
+    margin-top: -28.3vh;
+}
+
+.botaoatv{
+    border-radius: 3vw;
+    background-color: #141414;
+}
+
+.divatividademod{
+    width: 31vw;
+    height: 20vh;
+    background-color: rgb(70, 16, 70);  
+    border-radius: 1.3vw;
+    margin-left: 3vh;  
+}
