@@ -54,3 +54,112 @@ body{
     border-radius: 1.3vw;
     margin-left: 3vh;  
 }
+
+.atvbanco1{
+    background-color: rgb(70, 16, 70);  
+    border-radius: 1.3vw;
+    margin-left: 3vh;  
+    width: 31vw;
+    height: 17vh;
+}
+
+.atvbanco2{
+    width: 31vw;
+    height: 16vh;
+    background-color: rgb(70, 16, 16);  
+    border-radius: 1.3vw;
+    margin-left: 34vw;
+    margin-top: -19.5vh;
+}
+
+.atvbanco3{
+    width: 20vw;
+    background-color: rgb(70, 16, 46);  
+    border-radius: 1.5vw;
+    margin-top: -19.3vh;
+    margin-left: 66.2vw; 
+}
+
+.home{
+    height: 2rem;
+    border-radius: 1rem;
+    font-family: 'Typography Times', sans-serif;
+    font-size: 1rem; 
+    width: 5vw; 
+}
+
+.letrahome{
+    text-decoration: none;
+    color: black;
+}
+
+.atvnat1{
+    background-color: rgb(70, 16, 70);  
+    border-radius: 1.3vw;
+    margin-left: 3vh;  
+    width: 30vw;
+    height: 13vh;
+}
+
+.atvnat2{
+    width: 31vw;
+    height: 13vh;
+    background-color: rgb(70, 16, 16);  
+    border-radius: 1.3vw;
+    margin-left: 34vw;
+    margin-top: -16vh;
+}
+
+.atvnat3{
+    width: 25vw;
+    background-color: rgb(70, 16, 46);  
+    border-radius: 1.5vw;
+    margin-top: -16vh;
+    margin-left: 66.2vw; 
+}
+
+.atvlin1{
+    background-color: rgb(70, 16, 70);  
+    border-radius: 1.3vw;
+    margin-left: 3vh;  
+    width: 35vw;
+    height: 37vh;
+}
+
+.redacao{
+    margin-left: 1vw;
+}
+
+.atvhum1{
+    background-color: rgb(70, 16, 70);  
+    border-radius: 1.3vw;
+    margin-left: 3vh;  
+    width: 40vw;
+    height: 49vh;
+}
+
+.imghum1{
+    width: 30vh;
+    margin-left: 8vw;
+}
+
+.tituloatv{
+    color: white;
+    font-family: 'Typography Times', sans-serif;
+
+}
+
+.atvhum2{
+    width: 40vw;
+    height: 50vh;
+    background-color: rgb(70, 16, 16);  
+    border-radius: 1.3vw;
+    margin-left: 53vw;
+    margin-top: -52vh;
+}
+
+.imghum2{
+    width: 30vh;
+    margin-left: 19vw;
+    margin-top: -7vh;
+}

@@ -52,7 +52,7 @@
 .descricaolin{
     font-family: 'Typography Times', sans-serif;
     color: white;
-    font-size: 2em;
+    font-size: 1.3em;
 }
 
 .divatividadelin{
@@ -72,15 +72,14 @@
     width: 30vw;
     background-color: rgb(70, 24, 16);  
     border-radius: 1.5vw;
-    margin-top: -44.5vh;
+    margin-top: -26vh;
     margin-left: 35vw; 
 }
 
 .descricaolin2{
     font-family: 'Typography Times', sans-serif;
     color: white;
-    font-size: 2em;
-}
+    font-size: 1.3em;}
 
 .atividadecartaz{
     font-family: 'Typography Times', sans-serif;
@@ -92,15 +91,14 @@
     width: 20vw;
     background-color: rgb(70, 16, 46);  
     border-radius: 1.5vw;
-    margin-top: -50vh;
+    margin-top: -29vh;
     margin-left: 70vw; 
 }
 
 .descricaolin3{
     font-family: 'Typography Times', sans-serif;
     color: white;
-    font-size: 2em; 
-}
+    font-size: 1.3em;}
 
 .atividaderevista{
     font-family: 'Typography Times', sans-serif;
@@ -233,7 +231,7 @@ p{
 .descricaonat{
     font-family: 'Typography Times', sans-serif;
     color: white;
-    font-size: 1.8em;
+    font-size: 1.3em;
 }
 
 .botaoatv1nat{
@@ -243,22 +241,20 @@ p{
 .atividadetv{
     font-family: 'Typography Times', sans-serif;
     color: rgb(0, 0, 0);
-    font-size: 1.8em;
-}
+    font-size: 1.3em;}
 
 .divatividadenat2{
     width: 30vw;
     background-color: rgb(16, 68, 70);  
     border-radius: 1.5vw;
-    margin-top: -27.5vh;
+    margin-top: -25vh;
     margin-left: 34vw; 
 }
 
 .descricaonat2{
     font-family: 'Typography Times', sans-serif;
     color: white;
-    font-size: 1.8em;
-}
+    font-size: 1.3em;}
 
 .botaoatv2nat{
     border-radius: 3vw;
@@ -267,22 +263,20 @@ p{
 .atividadecircuito{
     font-family: 'Typography Times', sans-serif;
     color: rgb(0, 0, 0);
-    font-size: 1.8em;
-}
+    font-size: 1.3em;}
 
 .divatividadenat3{
     width: 30vw;
     background-color: rgb(16, 70, 19);  
     border-radius: 1.5vw;
-    margin-top: -27.5vh;
+    margin-top: -25vh;
     margin-left: 66vw; 
 }
 
 .descricaonat3{
     font-family: 'Typography Times', sans-serif;
     color: white;
-    font-size: 1.8em;
-}
+    font-size: 1.3em;}
 
 .botaoatv3nat{
     border-radius: 3vw;
@@ -291,8 +285,7 @@ p{
 .atividaderevisao{
     font-family: 'Typography Times', sans-serif;
     color: rgb(0, 0, 0);
-    font-size: 1.8em;
-}
+    font-size: 1.3em;}
 
 .divatividadenat4{
     width: 30vw;
@@ -305,8 +298,7 @@ p{
 .descricaonat4{
     font-family: 'Typography Times', sans-serif;
     color: white;
-    font-size: 1.8em;
-}
+    font-size: 1.3em;}
 
 .botaoatv4nat{
     border-radius: 3vw;
@@ -315,8 +307,7 @@ p{
 .atividadeexercicio{
     font-family: 'Typography Times', sans-serif;
     color: rgb(0, 0, 0);
-    font-size: 1.8em;
-}
+    font-size: 1.3em;}
 
 .bodytri1dev{
     background-color: #141414;
@@ -388,4 +379,29 @@ p{
     border-radius: 1.3vw;
     margin-left: 34vw;
     margin-top: -23vh;
+}
+
+.home{
+    height: 2rem;
+    border-radius: 1rem;
+    font-family: 'Typography Times', sans-serif;
+    font-size: 1rem; 
+    width: 5vw; 
+}
+
+.divdev2{
+    width: 31vw;
+    height: 27.8vh;
+    background-color: rgb(70, 16, 16);  
+    border-radius: 1.3vw;
+    margin-left: 34vw;
+    margin-top: -34.5vh;
+}
+
+.divdev3{
+    width: 31vw;
+    background-color: rgb(16, 70, 19);  
+    border-radius: 1.5vw;
+    margin-top: -31vh;
+    margin-left: 66vw; 
 }

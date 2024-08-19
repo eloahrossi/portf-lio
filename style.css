@@ -97,7 +97,7 @@ body{
 
 .fedya{
     margin-left: 56vw;
-    margin-top: -25vh;
+    margin-top: -40vh;
     width: 55vh;
 }
 
@@ -145,7 +145,7 @@ a{
     width: 25vw;
     position: absolute;
     left: 9rem;
-    top: 104rem;
+    top: 105rem;
     transition: all 0.3s ease-in-out;
     -webkit-filter: drop-shadow(5px 5px 5px #252525);
     filter: drop-shadow(5px 5px 5px #888888);
