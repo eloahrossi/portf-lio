@@ -138,14 +138,14 @@ a{
     width: fit-content;
     position: absolute;
     left: 42.3rem;
-    top: 97rem;
+    top: 94rem;
 }
 
 .ranpo{
     width: 25vw;
     position: absolute;
     left: 9rem;
-    top: 105rem;
+    top: 99rem;
     transition: all 0.3s ease-in-out;
     -webkit-filter: drop-shadow(5px 5px 5px #252525);
     filter: drop-shadow(5px 5px 5px #888888);
